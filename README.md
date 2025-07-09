@@ -1,35 +1,54 @@
-Hi there,
-I will create shopify store or design, redesign shopify dropshipping website
-Are you looking for a professional Shopify designer or developer to design a stunning, profitable Shopify store?
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
 
+  <br />
+  <br />
 
-Hello! I am Lammim Islam, a professional Shopify developer, professionally customize e-commerce custom Shopify website themes, and solve Shopify store coding problems. My job is to create online stores to meet the different needs of my clients, and create a beautiful Shopify store based on what the client wants. I have a lot of skills in Shopify optimization and troubleshooting.
+  <h2 align="center">Grilli - Restaurant Website</h2>
 
+  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-WHAT IS INCLUDED IN MY GIG?
+  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
+</div>
 
-    Fully automated shopify store
-    Mobile friendly and SEO optimization
-    Niche research
-    Custom functionality
-    App Installation
-    An Elegant Shopify Store
-    All payment methods integrated
-    Product and cart pages with proper placement
-    Responsive Shopify Design
+<br />
 
+### Demo Screeshots
 
-WHY ME?
+![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
+### Prerequisites
 
-    Life time ongoing support
-    On time Delivery
-    24/7 Availability
-    2+ years Ecommerce experience with Amazon, Aliexpress, Walmart, CJ
-    Quick response
+Before you begin, ensure you have met the following requirements:
 
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-Let's build your dream shopify store. Contact me today for a free consultation!
+### Run Locally
 
-fiverr. https://www.fiverr.com/s/NNDxxro
+To run **Grilli** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/grilli.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/grilli.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
