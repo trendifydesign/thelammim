@@ -7,7 +7,7 @@ Google font
 ``` html
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Forum&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap" rel="stylesheet">
 ```
 
 Ionicon
@@ -22,91 +22,69 @@ Ionicon
 ## Colors
 
 ``` css
---gold-crayola: hsl(38, 61%, 73%);
---quick-silver: hsla(0, 0%, 65%, 1);
---davys-grey: hsla(30, 3%, 34%, 1);
---smoky-black-1: hsla(40, 12%, 5%, 1);
---smoky-black-2: hsla(30, 8%, 5%, 1);
---smoky-black-3: hsla(0, 3%, 7%, 1);
---eerie-black-1: hsla(210, 4%, 9%, 1);
---eerie-black-2: hsla(210, 4%, 11%, 1);
---eerie-black-3: hsla(180, 2%, 8%, 1);
---eerie-black-4: hsla(0, 0%, 13%, 1);
+--violet-blue-crayola: hsla(234, 50%, 64%, 1);
+--dark-cornflower-blue_a7: hsla(214, 88%, 27%, 0.07);
 --white: hsla(0, 0%, 100%, 1);
---white-alpha-20: hsla(0, 0%, 100%, 0.2);
---white-alpha-10: hsla(0, 0%, 100%, 0.1);
---black: hsla(0, 0%, 0%, 1);
---black-alpha-80: hsla(0, 0%, 0%, 0.8);
---black-alpha-15: hsla(0, 0%, 0%, 0.15);
-```
-
-## Gradient color
-
-``` css
---loading-text-gradient: linear-gradient(90deg, transparent 0% 16.66%, var(--smoky-black-3) 33.33% 50%,  transparent 66.66% 75%);
---gradient-1: linear-gradient(to top,hsla(0, 0%, 0%, 0.9),hsla(0, 0%, 0%, 0.7),transparent);
+--white_a3: hsla(0, 0%, 100%, 0.03);
+--white_a8: hsla(0, 0%, 100%, 0.08);
+--white_a12: hsla(0, 0%, 100%, 0.12);
+--white_a70: hsla(0, 0%, 100%, 0.7);
+--cultured: hsla(220, 20%, 97%, 1);
+--lavender-web: hsla(233, 52%, 94%, 1);
+--cadet-blue-crayola: hsla(220, 12%, 70%, 1);
+--cadet-blue-crayola_a20: hsla(222, 23%, 71%, 0.2);
+--charcoal: hsla(218, 22%, 26%, 1);
+--raisin-black: hsla(216, 14%, 14%, 1);
+--light-gray: hsla(0, 0%, 79%, 1);
+--blue-crayola: hsla(219, 72%, 56%, 1);
+--black-coral: hsla(220, 12%, 43%, 1);
 ```
 
 ## Typography
 
 ``` css
---fontFamily-forum: 'Forum', cursive;
---fontFamily-dm_sans: 'DM Sans', sans-serif;
+--ff-manrope: 'Manrope', sans-serif;
 
---fontSize-display-1: calc(1.3rem + 6.7vw);
---fontSize-headline-1: calc(2rem + 2.5vw);
---fontSize-headline-2: calc(1.3rem + 2.4vw);
---fontSize-title-1: calc(1.6rem + 1.2vw);
---fontSize-title-2: 2.2rem;
---fontSize-title-3: 2.1rem;
---fontSize-title-4: calc(1.6rem + 1.2vw);
---fontSize-body-1: 2.4rem;
---fontSize-body-2: 1.6rem;
---fontSize-body-3: 1.8rem;
---fontSize-body-4: 1.6rem;
---fontSize-label-1: 1.4rem;
---fontSize-label-2: 1.2rem;
+--fs-1: calc(2.7rem + 1.38vw);
+--fs-2: calc(2.6rem + .66vw);
+--fs-3: 2.2rem;
+--fs-4: 1.9rem;
+--fs-5: 1.8rem;
+--fs-6: 1.7rem;
+--fs-7: 1.5rem;
+--fs-8: 1.4rem;
 
---weight-regular: 400;
---weight-bold: 700;
-
---lineHeight-1: 1em;
---lineHeight-2: 1.2em;
---lineHeight-3: 1.5em;
---lineHeight-4: 1.6em;
---lineHeight-5: 1.85em;
---lineHeight-6: 1.4em;
-
---letterSpacing-1: 0.15em;
---letterSpacing-2: 0.4em;
---letterSpacing-3: 0.2em;
---letterSpacing-4: 0.3em;
---letterSpacing-5: 3px;
+--fw-700: 700;
 ```
 
 ## Spacing
 
 ``` css
---section-space: 70px;
+--section-padding: 90px;
 ```
 
 ## Shadow
 
 ``` css
---shadow-1: 0px 0px 25px 0px hsla(0, 0%, 0%, 0.25);
+--shadow-1: 0 0 20px hsla(216, 14%, 14%, 0.05);
+--shadow-2: 0 0 0 0.05rem hsla(214, 88%, 27%, 0.08), 0 0 1.25rem hsla(216, 14%, 14%, 0.06);
+--shadow-3: 0 0 1.25rem hsla(216, 14%, 14%, 0.04);
 ```
 
 ## Border Radius
 
 ``` css
---radius-24: 24px;
 --radius-circle: 50%;
+--radius-pill: 100px;
+--radius-10: 10px;
+--radius-8: 8px;
+--radius-6: 6px;
 ```
 
 ## Transition
 
 ``` css
---transition-1: 250ms ease;
---transition-2: 500ms ease;
---transition-3: 1000ms ease;
+--transition-1: 0.25s ease;
+--transition-2: 0.5s ease;
+--transition-3: 0.3s ease-in-out;
 ```
