@@ -1,446 +1,196 @@
-Grilli - Amazing & Delicious Food
+Crafti - We Make Top Quality Handmade Products
 
-This is a Restaurant html template made by codewithsadee
-
-
-
-#---------- TOP BAR ----------#
-
-<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, London 9578, UK
-
-<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-Daily : 8.00 am to 10.00 pm
-
-<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-+1 123 456 7890
-
-<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-booking@restaurant.com
+This is a Handmade Products html template made by codewithsadee
 
 
 
 #---------- HEADER ----------#
 
-alt = Grilli - Home
+Crafti
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
 
 Home
-Menus
 About Us
-Our Chefs
-Contact
-
-Visit Us
-
-Restaurant St, Delicious City,
-London 9578, UK
-
-Open: 9.30 am - 2.30pm
-
-booking@grilli.com
-
-Booking Request
-+88-123-123456
-
-Find A Table
+Blog
+Contact Us
 
 aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
 
 
 
 #---------- HERO ----------#
 
-Tradational & Hygine
+We Make Top Quality Handmade Products
 
-For the love of
-delicious food
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-Come with family & feel the joy of mouthwatering food
+View Collection
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
-View Our Menu
+alt = view of assortment of decor for interior shop
 
-delightful experience
+alt = ceramic craft ware
 
-Flavors Inspired by
-the Seasons
-
-amazing & delicious
-
-Where every flavor
-tells a story
-
-aria-label = slide to previous
-<ion-icon name="chevron-back"></ion-icon>
-
-aria-label = slide to next
-<ion-icon name="chevron-forward"></ion-icon>
-
-alt = booking icon
-
-Book A Table
-
-
-
-#---------- SERVICE ----------#
-
-Flavors For Royalty
-
-We Offer Top Notch
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys standard dummy text ever.
-
-alt = Breakfast
-
-Breakfast
-View Menu
-
-Appetizers
-
-Drinks
-
-alt = shape
+alt = laves
 
 
 
 #---------- ABOUT ----------#
 
-Our Story
+alt = craftman in workshop
 
-Every Fla vor Tells a Story
+Make Handicrafts Since 1992
 
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into.
+alt = interior view of a leather shop selling belts brac
 
-Book Through Call
+Innovative Design is Our Passion
 
-+80 (400) 123 4567
+Curabitur interdum malesuada lectus ut pharetra. Sed tellus ante, aliquet a sem id, ultricies varius dolor. Nam volutpat hendrerit massa. Crasposuere ornare elementum.
 
 Read More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
-alt = about banner
-
-
-
-#---------- SPECIAL DISH ----------#
-
-alt = special dish
-
-alt = badge
-
-Special Dish
-
-Lobster Tortellini
-
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
-
-$40.00
-$20.00
-
-View All Menu
+alt = concentrated artisans in workshop
 
 
 
-#---------- MANU ----------#
+#---------- COLLECTION ----------#
 
-Special Selection
+Unique Handicrafts Collection
 
-Delicious Menu
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin molestie ligula dignissim.
 
-1.
-alt = Greek Salad
-Greek Salad
+alt = Pottery & Ceramics
 
-Seasonal
-$25.50
-Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
+Pottery & Ceramics
 
-2.
-alt = Lasagne
-Lasagne
+Cras fermentum augue ac purus pharetra man aliquam fringilla ornare quam.
 
-$40.00
-Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+View Gallery
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
-3.
-alt = Butternut Pumpkin
-Butternut Pumpkin
+Leather Craft
 
-$10.00
-Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.
-
-4.
-alt = Tokusen Wagyu
-Tokusen Wagyu
-
-New
-$39.00
-Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices.
-
-5.
-alt = Olivas Rellenas
-Olivas Rellenas
-
-$25.00
-Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
-
-6.
-alt = Opu Fish
-Opu Fish
-
-$49.00
-Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
-
-During winter daily from 7:00 pm to 9:00 pm
-
-View All Menu
-
-
-
-#---------- TESTIMONIALS ----------#
-
-”
-I wanted to thank you for inviting me down for that amazing dinner the other night. The food was extraordinary.
-
-alt = Sam Jhonson
-Sam Jhonson
-
-
-
-#---------- RESERVATION ----------#
-
-Online Reservation
-
-Booking request
-+88-123-123456
-or fill out the order form
-
-placeholder = Your Name
-placeholder = Phone Number
-
-<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
-
-1 Person
-2 Person
-3 Person
-4 Person
-5 Person
-6 Person
-7 Person
-
-<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
-
-<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
-
-<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-08 : 00 am
-<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
-
-placeholder = Message
-
-Book A Table
-
-Contact Us
-
-Booking Request
-
-+88-123-123456
-
-Location
-
-Restaurant St, Delicious City,
-London 9578, UK
-
-Lunch Time
-
-Monday to Sunday
-11.00 am - 2.30pm
-
-Dinner Time
-
-Monday to Sunday
-05.00 pm - 10.00pm
+Home Decoration
 
 
 
 #---------- FEATURES ----------#
 
-Why Choose Us
+aria-label = play video: man making handmade belt
 
-Our Strength
+alt = play icon
 
-alt = icon
+Passionate About Elegance and Beauty Design
 
-Hygienic Food
-Lorem Ipsum is simply dummy printing and typesetting.
+Curabitur porttitor nulla vitae purus eleifend feugiat. Quisque faucibus sapien, ut porttitor lorem.
 
-Fresh Environment
+alt = review icon
 
-Skilled Chefs
+100% Guarantee
+Vestibulum in eros at lectus commodo
 
-Event & Party
+alt = badge icon
+
+Professional Staffs
+
+alt = money bag icon
+
+Affordable Price
+
+Nunc cursus ante libero, et convallis eros tristique nec. Fusce consequat lectus dui, nec laoreet purus venenatis id.
 
 
 
-#---------- EVENT ----------#
+#---------- TESTIMONIALS ----------#
 
-Recent Updates
+Etiam ultricies eros ut malesuada condimentum. Cras in nisl sit amet dui molestie tristique ut vitae libero nec laoreet purus.
 
-Upcoming Event
+Edward Fransisco
 
-alt = Flavour so good you’ll try to eat with your eyes.
+Founder Crafti
 
-15/09/2022
-Food, Flavour
-Flavour so good you’ll try to eat with your eyes.
+alt = quote
 
-08/09/2022
-Healthy Food
 
-03/09/2022
-Recipie
 
-View Our Blog
+#---------- GALLERY ----------#
+
+Vases & Plant Pots
+
+View Gallery
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Clay Craft
+
+Sculpturing
+
+Accesories
+
+
+
+#---------- BLOG ----------#
+
+Blog & News
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin molestie ligula dignissim.
+
+alt = The Detail Process Of Decorating The Clay Vase At Pottery Studio
+
+The Detail Process Of Decorating The Clay Vase At Pottery Studio
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+admin
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+October 12, 2022
+
+<ion-icon name="folder-open-outline" aria-hidden="true"></ion-icon>
+Tips & Trick
+
+Skills And Techniques To Make A Genuine Leather Wallet
+
+5 Latest And Trending Handmade Crafts For Adults And Kids
+
+Homemade Business That Now Makes Hundreds Of Millions
+
+Read More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
 
 
 
 #---------- FOOTER ----------#
 
-alt = grilli home
+Crafti
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non porttitor augue, in convallis risus. Sed efficitur nulla quis luctus pulvinar. Cras nec pulvinar condimentum lacus.
 
-Restaurant St, Delicious City, London 9578, UK
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
 
-booking@grilli.com
-
-Booking Request : +88-123-123456
-
-Open : 09:00 am - 01:00 pm
-
-Get News & Offers
-
-Subscribe us & Get 25% Off.
-
-<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-
-placeholder = Your email
-
-Subscribe
-
-Home
-Menus
+Explore Us
 About Us
-Our Chefs
-Contact
+Collection
+Features
+Blog & News
 
-Facebook
-Instagram
-Twitter
-Youtube
-Google Map
+Support
+Account
+Feedback
+Support Center
+Our Stores
 
-&copy; 2022 Grilli. All Rights Reserved | Crafted by
+Get in Touch
 
-https://github.com/codewithsadee
-
-codewithsadee
-
-
-
-#---------- BACK TO TOP ----------#
-
-aria-label = back to top
-
-<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
-
-
-
-#---------- MENU PAGE ----------#
-
-
-Delicious & Amazing
-Our Menu
-
-Special Offer
-Best Special Menu
-
-alt = Greek Salad
-Greek Salad
-Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
-
-alt = Tokusen Wagyu
-Tokusen Wagyu
-Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
-
-alt = Butternut Pumpkin
-Butternut Pumpkin
-Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
-
-alt = Opu Fish
-Opu Fish
-Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
-
-alt = Greek Salad
-Greek Salad
-Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
-
-alt = Tokusen Wagyu
-Tokusen Wagyu
-Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
-
-alt = Butternut Pumpkin
-Butternut Pumpkin
-Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
-
-alt = Opu Fish
-Opu Fish
-Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
-
-
-alt = feature banner
-
-Chef Selection
-Lobster Tortellini
-
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
-
-$40.00
-$20.00
-
-
-
-#---------- MENU PAGE ----------#
-
-Our Story
-About Us
-
-Who We Are
-
-A modern restaurant with a menu that will make your mouth water. Servicing delicious food 
-since 45 years.
-Enjoy our seasonal menu and experience the beauty of naturalness
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived.
-
-Andrew Joe - Founder
-
-Lunch Time
-Monday to Sunday
-11.00 am - 2.30pm
-
-Dinner Time
-Monday to Sunday
-5.30 pm - 11.30 pm
+Question or feedback?
+We’d love to hear from you
 
 Contact Us
-Restaurant St, Delicious City, London 9578, UK
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
-+88-123-123456
-reservation@restro.com
+Copyright 2022 codewithsadee. All Right Reserved
