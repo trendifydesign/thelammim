@@ -1,446 +1,210 @@
-Grilli - Amazing & Delicious Food
+Adex 
 
-This is a Restaurant html template made by codewithsadee
-
-
-
-#---------- TOP BAR ----------#
-
-<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, London 9578, UK
-
-<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-Daily : 8.00 am to 10.00 pm
-
-<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-+1 123 456 7890
-
-<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-booking@restaurant.com
+This is a business agency html template made by codewithsadee
 
 
 
 #---------- HEADER ----------#
 
-alt = Grilli - Home
+alt = Adex home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
 
 Home
-Menus
-About Us
-Our Chefs
+About
+Projects
+Blog
 Contact
 
-Visit Us
+info@email.com
+00 (123) 456 78 90
 
-Restaurant St, Delicious City,
-London 9578, UK
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-dribbble"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
 
-Open: 9.30 am - 2.30pm
-
-booking@grilli.com
-
-Booking Request
-+88-123-123456
-
-Find A Table
+Free Trial
 
 aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
 
 
 
 #---------- HERO ----------#
 
-Tradational & Hygine
+Crafting project specific solutions with expertise.
 
-For the love of
-delicious food
+We’re a creative company that focuses on establishing long-term relationships with customers.
 
-Come with family & feel the joy of mouthwatering food
+Explore Now
+Contact Us
 
-View Our Menu
+alt = hero banner
 
-delightful experience
-
-Flavors Inspired by
-the Seasons
-
-amazing & delicious
-
-Where every flavor
-tells a story
+aria-label = play adex intro
+<ion-icon name="play" aria-hidden="true"></ion-icon>
 
 aria-label = slide to previous
-<ion-icon name="chevron-back"></ion-icon>
+<ion-icon name="arrow-back"></ion-icon>
 
 aria-label = slide to next
-<ion-icon name="chevron-forward"></ion-icon>
-
-alt = booking icon
-
-Book A Table
+<ion-icon name="arrow-forward"></ion-icon>
 
 
 
 #---------- SERVICE ----------#
 
-Flavors For Royalty
+What We Do?
 
-We Offer Top Notch
+The service we offer is specifically designed to meet your needs.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys standard dummy text ever.
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+24/7 Support
+Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus cras justo.
 
-alt = Breakfast
+Learn More
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
 
-Breakfast
-View Menu
+<ion-icon name="shield-checkmark-outline" aria-hidden="true"></ion-icon>
+Secure Payments
 
-Appetizers
+<ion-icon name="cloud-download-outline" aria-hidden="true"></ion-icon>
+Daily Updates
 
-Drinks
+<ion-icon name="pie-chart-outline" aria-hidden="true"></ion-icon>
+Market Research
 
-alt = shape
 
 
 
 #---------- ABOUT ----------#
 
-Our Story
-
-Every Fla vor Tells a Story
-
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into.
-
-Book Through Call
-
-+80 (400) 123 4567
-
-Read More
-
 alt = about banner
 
+Why Choose Us?
 
+We bring solutions to make life easier for our clients.
 
-#---------- SPECIAL DISH ----------#
+<ion-icon name="chevron-down-outline" aria-hidden="true" class="down"></ion-icon>
+Professional Design
 
-alt = special dish
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.
 
-alt = badge
+Top-Notch Support
 
-Special Dish
+Exclusive Assets
 
-Lobster Tortellini
 
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
 
-$40.00
-$20.00
+#---------- FEATURE ----------#
 
-View All Menu
+alt = feature banner
 
+Our Solutions
 
+We make your spending stress-free for you to have the perfect control.
 
-#---------- MANU ----------#
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus.
 
-Special Selection
+<ion-icon name="checkmark" aria-hidden="true"></ion-icon>
+Aenean quam ornare. Curabitur blandit.
 
-Delicious Menu
+Nullam quis risus eget urna mollis ornare.
 
-1.
-alt = Greek Salad
-Greek Salad
+Etiam porta euismod malesuada mollis.
 
-Seasonal
-$25.50
-Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
+Vivamus sagittis lacus vel augue rutrum.
 
-2.
-alt = Lasagne
-Lasagne
 
-$40.00
-Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
 
-3.
-alt = Butternut Pumpkin
-Butternut Pumpkin
+#---------- STATS ----------#
 
-$10.00
-Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.
+7518
+Completed Projects
 
-4.
-alt = Tokusen Wagyu
-Tokusen Wagyu
+3472
+Happy Customers
 
-New
-$39.00
-Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices.
+2184
+Expert Employees
 
-5.
-alt = Olivas Rellenas
-Olivas Rellenas
+4523
+Awards Won
 
-$25.00
-Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
 
-6.
-alt = Opu Fish
-Opu Fish
 
-$49.00
-Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+#---------- PROJECTS ----------#
 
-During winter daily from 7:00 pm to 9:00 pm
+Case Studies
 
-View All Menu
+Check out some of our awesome projects with creative ideas and great design.
 
+alt = Ligula tristique quis risus
 
+Ligula tristique quis risus
 
-#---------- TESTIMONIALS ----------#
+Mauris convallis non ligula non interdum. Gravida vulputate convallis tempus vestibulum cras imperdiet nun eu dolor.
 
-”
-I wanted to thank you for inviting me down for that amazing dinner the other night. The food was extraordinary.
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+14 Apr 2022
 
-alt = Sam Jhonson
-Sam Jhonson
+<ion-icon name="document-text-outline" aria-hidden="true"></ion-icon>
+Coding
 
+alt = Nullam id dolor elit id nibh
 
+Nullam id dolor elit id nibh
 
-#---------- RESERVATION ----------#
+29 Mar 2022
+Workspace
 
-Online Reservation
+alt = Ultricies fusce porta elit
 
-Booking request
-+88-123-123456
-or fill out the order form
+Ultricies fusce porta elit
 
-placeholder = Your Name
-placeholder = Phone Number
+26 Feb 2022
+Meeting
 
-<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
 
-1 Person
-2 Person
-3 Person
-4 Person
-5 Person
-6 Person
-7 Person
 
-<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+#---------- CTA ----------#
 
-<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+Join our community by using our services and grow your business.
 
-<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-08 : 00 am
-<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
-
-placeholder = Message
-
-Book A Table
-
-Contact Us
-
-Booking Request
-
-+88-123-123456
-
-Location
-
-Restaurant St, Delicious City,
-London 9578, UK
-
-Lunch Time
-
-Monday to Sunday
-11.00 am - 2.30pm
-
-Dinner Time
-
-Monday to Sunday
-05.00 pm - 10.00pm
-
-
-
-#---------- FEATURES ----------#
-
-Why Choose Us
-
-Our Strength
-
-alt = icon
-
-Hygienic Food
-Lorem Ipsum is simply dummy printing and typesetting.
-
-Fresh Environment
-
-Skilled Chefs
-
-Event & Party
-
-
-
-#---------- EVENT ----------#
-
-Recent Updates
-
-Upcoming Event
-
-alt = Flavour so good you’ll try to eat with your eyes.
-
-15/09/2022
-Food, Flavour
-Flavour so good you’ll try to eat with your eyes.
-
-08/09/2022
-Healthy Food
-
-03/09/2022
-Recipie
-
-View Our Blog
+Try it For Free
 
 
 
 #---------- FOOTER ----------#
 
-alt = grilli home
+alt = Adex home
+&copy; 2022 codewithsadee. All rights reserved.
 
-Restaurant St, Delicious City, London 9578, UK
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-dribbble"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
 
-booking@grilli.com
+Get in Touch
+Moonshine St. 14/05 Light City, London, United Kingdom
 
-Booking Request : +88-123-123456
+info@email.com
+00 (123) 456 78 90
 
-Open : 09:00 am - 01:00 pm
+Learn More
 
-Get News & Offers
-
-Subscribe us & Get 25% Off.
-
-<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-
-placeholder = Your email
-
-Subscribe
-
-Home
-Menus
 About Us
-Our Chefs
-Contact
-
-Facebook
-Instagram
-Twitter
-Youtube
-Google Map
-
-&copy; 2022 Grilli. All Rights Reserved | Crafted by
-
-https://github.com/codewithsadee
-
-codewithsadee
-
-
-
-#---------- BACK TO TOP ----------#
-
-aria-label = back to top
-
-<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
-
-
-
-#---------- MENU PAGE ----------#
-
-
-Delicious & Amazing
-Our Menu
-
-Special Offer
-Best Special Menu
-
-alt = Greek Salad
-Greek Salad
-Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
-
-alt = Tokusen Wagyu
-Tokusen Wagyu
-Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
-
-alt = Butternut Pumpkin
-Butternut Pumpkin
-Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
-
-alt = Opu Fish
-Opu Fish
-Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
-
-alt = Greek Salad
-Greek Salad
-Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
-
-alt = Tokusen Wagyu
-Tokusen Wagyu
-Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
-
-alt = Butternut Pumpkin
-Butternut Pumpkin
-Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
-
-alt = Opu Fish
-Opu Fish
-Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
-
-
-alt = feature banner
-
-Chef Selection
-Lobster Tortellini
-
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
-
-$40.00
-$20.00
-
-
-
-#---------- MENU PAGE ----------#
-
 Our Story
-About Us
+Projects
+Terms of Use
+Privacy Policy
 
-Who We Are
+Our Newsletter
+Subscribe to our newsletter to get our news & deals delivered to you.
 
-A modern restaurant with a menu that will make your mouth water. Servicing delicious food 
-since 45 years.
-Enjoy our seasonal menu and experience the beauty of naturalness
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived.
-
-Andrew Joe - Founder
-
-Lunch Time
-Monday to Sunday
-11.00 am - 2.30pm
-
-Dinner Time
-Monday to Sunday
-5.30 pm - 11.30 pm
-
-Contact Us
-Restaurant St, Delicious City, London 9578, UK
-
-+88-123-123456
-reservation@restro.com
+placeholder = Email Address
+Join
